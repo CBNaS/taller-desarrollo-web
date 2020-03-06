@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.ColStyle {
+  background-color: #000000;
+  color: white;
+}
+.logo {
+  width: 60%;
+  height: 40px;
+}
